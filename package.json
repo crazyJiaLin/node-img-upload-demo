@@ -1,0 +1,19 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "this is a project about img upload",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "cjl",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dateformat": "^3.0.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "formidable": "^1.2.1"
+  }
+}
